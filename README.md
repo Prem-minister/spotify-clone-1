@@ -2,7 +2,7 @@
 
 ![](https://github.com/Prem-minister/spotify-clone-1/blob/master/clone.PNG)
 You can access this clone using this link https://spotify-clone-1.vercel.app/ but remember that this clone only works for spotify premium accounts.
-You can also run this app locally in http://localhost:3000 but you have to install it before running it.
+Note: If the link doesnt work you can also run this app locally in http://localhost:3000 but before that you have to install it.
 
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
