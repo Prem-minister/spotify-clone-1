@@ -1,6 +1,6 @@
 # Spotify Clone with Next.js + Tailwind CSS Example
 
-![](https://github.com/Prem-minister/spotify-clone-1/clone.PNG)
+![](https://github.com/Prem-minister/spotify-clone-1/blob/master/clone.PNG)
 
 
 
