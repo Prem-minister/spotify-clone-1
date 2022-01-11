@@ -1,7 +1,7 @@
 # Spotify Clone with Next.js + Tailwind CSS Example
 
 ![](https://github.com/Prem-minister/spotify-clone-1/blob/master/clone.PNG)
-You can access this clone using this link https://spotify-clone-1.vercel.app/ but remember that this clone only works for spotify premium accounts.
+You can access this clone using this link https://spotify-clone-1.vercel.app but remember that this clone only works for spotify premium accounts.
 Note: If the link doesnt work you can also run this app locally in http://localhost:3000 but before that you have to install it.
 
 
